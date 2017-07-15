@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "./dist/ng-key-value-text.js",
   "description": "An angularJS directory for dynamically building key-value input fields",
-  "homepage": "https://github.com/codehangar/ng-copy-text",
+  "homepage": "https://github.com/otaruMendez/ng-key-value-input",
   "private": false,
   "authors": [
     "Babatunde Otaru"
