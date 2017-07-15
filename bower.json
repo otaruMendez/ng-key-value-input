@@ -28,6 +28,6 @@
     "gulpfile.js",
     "karma.conf.js",
     "package.json"
-]
+  ],
 }
 
